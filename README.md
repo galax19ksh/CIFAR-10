@@ -1,4 +1,5 @@
 # CIFAR-10 Classification using CNN
+*Detailed code and description can be accessed from the jupyter notebook in the repo.*
 ## Introduction
 CIFAR-10 is a standard dataset used in computer vision and deep learning for image classification tasks. It consists of 60,000 32x32 colored images divided into 10 classes, with 6,000 images per class. It is a well-studied benchmark for evaluating and comparing image classification algorithms as well as a good starting point for beginners to practice building and training CNNs. 
 ![tensorflow-keras-cnn-cifar10-architecture](https://github.com/galax19ksh/CIFAR-10-Classification/assets/112553872/1fa281b7-c0c7-4be7-9f57-35f74b86fcce)
