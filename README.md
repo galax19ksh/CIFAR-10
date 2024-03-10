@@ -32,6 +32,8 @@ Google Colab (T4 GPU)
 * Rebuilt the model with `dropout`.
 * On evaluation, we notice the performance on validation data are improved (closely aligned with training one). 
 * Test Accuracy: 79%
+
+
 *Original Model*
 ![image](https://github.com/galax19ksh/CIFAR-10-Classification/assets/112553872/e9885a29-c623-49c7-804b-d3142e30b2a4)
 *Dropout Model*
